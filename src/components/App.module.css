@@ -6,6 +6,8 @@ ul {
   padding: 20px;
   border: 1px solid #ff0359;
   background-color: #fcdce7;
+  max-width: 600px;
+  margin: 0 auto;
 }
 .title {
   color: #333333;
